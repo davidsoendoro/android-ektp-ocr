@@ -1,14 +1,14 @@
 # android-ektp-ocr
 Read Indonesian E-KTP details with your android phone's camera
 
-# Pre-requisites
+## Pre-requisites
 
-# Usage
+## Usage
 
-# Building
+## Building
 
-# Versions
+## Versions
 
-# Support
+## Support
 
-# License
+## License
